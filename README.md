@@ -25,4 +25,4 @@ FitBuddy is an AI-powered fitness and diet plan generator built using Google Gem
 - [ ] Phase 8: Project Demonstration
 
 ## Project Demo Video
-- [Watch Demo Video on Google Drive](இங்கே_உங்கள்_Google_Drive_Video_Link_ஒட்டவும்)
+- [Watch Demo Video on Google Drive](https://colab.research.google.com/drive/1U35bmjAcWdYq4f8wLsc8A5D_dGzxyOMw)
