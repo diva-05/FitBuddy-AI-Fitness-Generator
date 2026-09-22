@@ -19,10 +19,10 @@ FitBuddy is an AI-powered fitness and diet plan generator built using Google Gem
 - [x] Phase 2: Requirement Analysis
 - [x] Phase 3: Project Design
 - [x] Phase 4: Project Planning
-- [ ] Phase 5: Project Development
+- [x] Phase 5: Project Development
 - [ ] Phase 6: Project Testing
 - [ ] Phase 7: Project Documentation
-- [ ] Phase 8: Project Demonstration
+- [x] Phase 8: Project Demonstration
 
 ## Project Demo Video
 - [Watch Demo Video on Google Drive](https://colab.research.google.com/drive/1U35bmjAcWdYq4f8wLsc8A5D_dGzxyOMw)
